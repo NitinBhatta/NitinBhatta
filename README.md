@@ -16,11 +16,6 @@ Hi there! I'm Nitin Dev Bhatta, a passionate Full-Stack Developer with experienc
 🗄️ **Database**: MongoDB  
 ☁️ **Cloud**: AWS  
 
-
-## My Projects
-- **[Project 1 Name](Link to Project)** - Short description of the project.
-- **[Project 2 Name](Link to Project)** - Short description of the project.
-
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NitinBhatta&show_icons=true&hide_border=true&count_private=true&theme=radical)
 
