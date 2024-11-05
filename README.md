@@ -10,10 +10,10 @@ Hi there! I'm Nitin Dev Bhatta, a passionate Full-Stack Developer with experienc
 
 ## My Tech Stack
 
-🖥 **Languages**: JavaScript  
+🖥 **Languages**: JavaScript,Python  
 🌐 **Front-End**: React, HTML, CSS, Figma  
-🛠 **Back-End**: Node.js, Express.js  
-🗄️ **Database**: MongoDB  
+🛠 **Back-End**: Node.js, Express.js,Django  
+🗄️ **Database**: MongoDB,MYSQL  
 ☁️ **Cloud**: AWS  
 
 ## GitHub Stats
