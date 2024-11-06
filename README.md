@@ -16,6 +16,10 @@ Hi there! I'm Nitin Dev Bhatta, a passionate Full-Stack Developer with experienc
 🗄️ **Database**: MongoDB,MYSQL  
 ☁️ **Cloud**: AWS  
 
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](linkedin.com/in/nitin-dev-bhatta-315684205/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nitin.bhatta0225@gmail.com) 
+
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NitinBhatta&show_icons=true&hide_border=true&count_private=true&theme=radical)
 
@@ -25,9 +29,6 @@ Hi there! I'm Nitin Dev Bhatta, a passionate Full-Stack Developer with experienc
 ## Most Used Languages
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NitinBhatta&layout=compact&theme=radical)
 
-## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](linkedin.com/in/nitin-dev-bhatta-315684205/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nitin.bhatta0225@gmail.com) 
 
 
 
