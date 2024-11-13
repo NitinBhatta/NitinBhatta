@@ -17,7 +17,7 @@ Hi there! I'm Nitin Dev Bhatta, a passionate Full-Stack Developer with experienc
 ☁️ **Cloud**: AWS  
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](linkedin.com/in/nitin-dev-bhatta-315684205/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/nitin-dev-bhatta-315684205/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nitin.bhatta0225@gmail.com) 
 
 ## GitHub Stats
